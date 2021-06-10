@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "903414370559",
+    "firebase_url": "https://nomundodasluas-dd152.firebaseio.com",
+    "project_id": "nomundodasluas-dd152",
+    "storage_bucket": "nomundodasluas-dd152.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903414370559:android:8fb56c365390157b513cca",
+        "android_client_info": {
+          "package_name": "com.example.gerafoto_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903414370559-olgbg428c4g1gliqb8evf872g8quhmg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gerafoto_app",
+            "certificate_hash": "6d50ef24ee23e23cf295ac508f7b040e397d7557"
+          }
+        },
+        {
+          "client_id": "903414370559-b1kbnduba7ilium6q4jifpcq58gr6p52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNzYPB2v_wPnsvEC1be3wI_Y-MqU9scWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903414370559-eg9prhpqkg12sma7j4r0aj3kqvt2vj3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
